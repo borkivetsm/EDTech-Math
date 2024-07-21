@@ -1,1 +1,37 @@
-/*# sourceMappingURL=main.css.map */
+.header {
+  background-color: #de8ae8;
+}
+
+.post {
+  background-image: url("../img/post.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.post__btn {
+  margin: 75px 150px 75px 150px;
+}
+
+.footer {
+  background-color: #202020;
+}
+
+.footer__socials-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.footer__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.footer__adress-element,
+.footer__contacts-element {
+  color: #FFFFFF;
+  font-size: 12px;
+}/*# sourceMappingURL=main.css.map */
